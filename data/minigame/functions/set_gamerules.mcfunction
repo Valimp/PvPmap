@@ -1,0 +1,11 @@
+gamerule announceAdvancements false
+gamerule commandBlockOutput true
+gamerule disableRaids true
+gamerule doDaylightCycle false
+gamerule doFireTick false
+gamerule doImmediateRespawn true
+gamerule doInsomnia true
+gamerule doMobSpawning false
+gamerule doWeatherCycle false
+gamerule spawnRadius 0
+gamerule spectatorsGenerateChunks false
